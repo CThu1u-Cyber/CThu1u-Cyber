@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2>
 
-- <b>Active Directory - Offensive Simulation & Security Hardening</b>
+- <b>Active Directory Home Lab- Offensive Simulation & Security Hardening</b>
 - <b>LetsDefend - SIEM Simulation & Monitoring</b>
 - <b>Home SOC in the Cloud - Microsoft Sentinel & Honeypot HomeLab</b>
 - <b>Python</b>
