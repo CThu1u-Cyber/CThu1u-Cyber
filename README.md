@@ -16,7 +16,7 @@
 - <b>Helpdesk Simulation - 'Peppermint' Docker Build</b>
   - [Helpdesk Simulation](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/42006591-f734-4b94-ba54-f14370de81e5" />
+<h2><img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/42006591-f734-4b94-ba54-f14370de81e5" />
 Follow me on my CTF journey!</h2>
 <h3>HackTheBox</h3>
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
