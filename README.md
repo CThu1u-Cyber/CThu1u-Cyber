@@ -12,7 +12,7 @@
   - [Vulnerability Analysis Framework](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Intrusion Detection/Prevention System (Memory Exhaustion)](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>IT-based Automation</b>
-  - [IT Capstone - Eagle Deployment](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IT Capstone - Eagle Deployment](https://github.com/CThu1u-Cyber/EagleDeployment)
 - <b>Helpdesk Simulation - 'Peppermint' Docker Build</b>
   - [Helpdesk Simulation](https://github.com/joshmadakor1/Algorithms-Practice)
 
