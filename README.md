@@ -9,7 +9,7 @@
 - <b>Home SOC in the Cloud - Microsoft Sentinel & Honeypot HomeLab</b>
   - [Home-SOC-in-the-Cloud](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
-  - [Vulnerability Analysis Framework](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Offensive Security Scripts](
   - [Intrusion Detection/Prevention System (Memory Exhaustion)](https://github.com/CThu1u-Cyber/IDPS-Project)
 - <b>IT-based Automation</b>
   - [IT Capstone - Eagle Deployment](https://github.com/CThu1u-Cyber/EagleDeployment)
