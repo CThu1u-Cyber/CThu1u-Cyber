@@ -6,8 +6,9 @@
   - [Active-Directory-Home-Lab](https://github.com/CThu1u-Cyber/Active-Directory-Home-Lab/tree/main)
 - <b>LetsDefend - SIEM Simulation & Monitoring</b>
 - <b>Home SOC in the Cloud - Microsoft Sentinel & Honeypot HomeLab</b>
-- <b>Python</b>
-  - [Offensive Security Scripts (Work in Progress)](https://github.com/CThu1u-Cyber/Offensive-Security-Scripts)
+- <b>Offensive Security Scripts</b>
+  - [ReefCTF : Active Directory Pentest Automation Framework (in progress)](https://github.com/CThu1u-Cyber/ReefCTF)
+- <b>Custom Intrusion Detection/Prevention Script</b>
   - [Intrusion Detection/Prevention System (Memory Exhaustion)](https://github.com/CThu1u-Cyber/IDPS-Project)
 - <b>IT-based Automation</b>
   - [IT Capstone - Eagle Deployment](https://github.com/CThu1u-Cyber/EagleDeployment)
