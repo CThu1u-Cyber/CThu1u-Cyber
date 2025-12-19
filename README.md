@@ -17,12 +17,14 @@
 Follow me on my CTF journey!</h2>
 <h3>HackTheBox</h3>
 
+- [Editor - EASY](https://cthu1u-cyber.github.io/posts/editor_htb/)
+
 <h3>TryHackMe</h3>
 
   - [Sequence - MEDIUM](https://mousy-helenium-6fd.notion.site/Sequence-27cf5957c16980c4891ad522305314f7?pvs=141)
 <h3>Hacksmarter Labs</h3>
 
-  - [NorthBridge Systems - HARD](https://mousy-helenium-6fd.notion.site/NorthBridge-Systems-Hack-Smarter-Labs-HARD-Difficulty-2b1f5957c169800db173ddcd1f14b803?source=copy_link)
+  - [NorthBridge Systems - HARD](https://cthu1u-cyber.github.io/posts/northbridge_hsm/)
   - [Sysco - MEDIUM](https://mousy-helenium-6fd.notion.site/Sysco-Hacksmarter-Labs-29df5957c1698062a6eaf667c329ea74)
   - [Arasaka - EASY](https://mousy-helenium-6fd.notion.site/Arasaka-Hacksmarter-27bf5957c1698036b40fef4a765deaf1?pvs=141)
 <h2> 🤳 Connect with me:</h2>
