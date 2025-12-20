@@ -27,6 +27,7 @@ Follow me on my CTF journey!</h2>
   - [NorthBridge Systems - HARD](https://cthu1u-cyber.github.io/posts/northbridge_hsm/)
   - [Sysco - MEDIUM](https://mousy-helenium-6fd.notion.site/Sysco-Hacksmarter-Labs-29df5957c1698062a6eaf667c329ea74)
   - [Arasaka - EASY](https://mousy-helenium-6fd.notion.site/Arasaka-Hacksmarter-27bf5957c1698036b40fef4a765deaf1?pvs=141)
+  - [Staged - MEDIUM](https://cthu1u-cyber.github.io/posts/staged_hsm/)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="CThu1u-Cyber | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
